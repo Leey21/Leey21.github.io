@@ -23,11 +23,16 @@ I previously studied Information Security at Wuhan University (WHU) and conducte
 I’m always happy to connect and discuss research ideas or potential collaborations—feel free to reach out.
 
 
-<span class='anchor' id="-news"></span>
-# 🔥 News
+<!-- <span class='anchor' id="-news"></span>
+# 🔥 News -->
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+- M. Sun\*, **Y. Li\***, Y. Liu, B. Du, & Y. Ge. InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning. Network and Distributed
+System Security (**NDSS**) Symposium 2026
+- **Y. Li\***, Z. Pan\*, H. Lin\*, M. Sun, C. He, & L. Wu. Can one domain help others? a data-centric study on multi-domain reasoning via reinforcement learning. arXiv preprint arXiv:2507.17512
+- **Y. Li**, Q. Pei, M. Sun, H. Lin, C. Ming, X. Gao, J. Wu, C. He, & L. Wu. Cipherbank: Exploring the boundary of LLM reasoning capabilities through cryptography challenges. **Findings of ACL 2025**
+- Z. Pan, **Y. Li**, H. Lin, Q. Pei, Z. Tang, W. Wu, C. Ming, H. V. Zhao, C. He, & L. Wu. Lemma: Learning from Errors for Mathematical Advancement in LLMs.  **Findings of ACL 2025**
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
