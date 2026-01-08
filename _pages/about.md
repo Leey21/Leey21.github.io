@@ -15,8 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<p align="left">
+  <img src="../images/ustcblue.jpg" alt="USTC" width="130" style="margin-right: 16px;">
+  <img src="../images/shlab.png" alt="PJLab" width="200">
+</p>
+
+# 👋 About me
 <span class='anchor' id='about-me'></span>
-Hi 👋, I’m Yu Li (LiYu), a first-year PhD student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), in a joint PhD program with [PJLab](https://www.shlab.org.cn/), advised by [Lijun Wu](https://apeterswu.github.io/), [Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ&hl=en), and [Dahua Lin](http://dahua.site/). My research focuses on data analysis for large language models, reasoning enhancement, and reinforcement learning.
+Hi, I’m Yu Li (LiYu), a first-year PhD student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), in a joint PhD program with [PJLab](https://www.shlab.org.cn/), advised by [Lijun Wu](https://apeterswu.github.io/), [Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ&hl=en), and [Dahua Lin](http://dahua.site/). My research focuses on data analysis for large language models, reasoning enhancement, and reinforcement learning.
 
 I previously studied Information Security at Wuhan University (WHU) and conducted undergraduate research in the [NIS&P Lab](https://nisplab.whu.edu.cn/) under [Qian Wang](https://scholar.google.com/citations?hl=en&user=CD7ybnAAAAAJ).
 I’m always happy to connect and discuss research ideas or potential collaborations—feel free to reach out.
