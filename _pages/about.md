@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi 👋, I'm LiYu, a third-year undergraduate student studying at at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), majoring in information security. My research interest lies in Artificial Intelligence (AI) Security & Privacy, which specifically involves backdoor attacks and defense in the field of computer vision and speech recognition, adversarial samples, model fairness, and multimodal face recognition technology.
+Hi 👋, I’m Yu Li (LiYu), a first-year PhD student at the University of Science and Technology of China (USTC), jointly trained with PJLab, advised by Lijun Wu, Feng Zhao, and Dahua Lin. My research focuses on data analysis for large language models, reasoning enhancement, and reinforcement learning.
 
-In my sophomore year, I joined the [NIS&P Lab](http://nisplab.whu.edu.cn/)and studied with Prof.Qian Wang, and I am very grateful to the Lab for providing me with various resources and allowing me to participate in my first academic conference as an undergraduate. I would like to thank Mr.Qian Wang and the seniors in the laboratory for their help in helping me cope with one difficulty after another at the initial stage of scientific research.
+I previously studied Information Security at Wuhan University (WHU) and conducted undergraduate research in the NIS&P Lab under Prof. Qian Wang.
 
-As an undergraduate, I am well aware that I still have a lot to do and that I still need to work the academic front, but I am also welcome to talk to me and sincerely appreciate any suggestions that may be given to me.
+I’m always happy to connect and discuss research ideas or potential collaborations—feel free to reach out.
 
 
 <span class='anchor' id="-news"></span>
@@ -54,7 +54,8 @@ As an undergraduate, I am well aware that I still have a lot to do and that I st
 - 
 <span class='anchor' id="-educations"></span>
 # 📖 Educations
-- *2021.09 - now*, Undergraduate, Information Security Major, School of Cyber Science and Engineering, College, Wuhan Univeristy, Wuhan Hubei.
+- *2025.09 - now*, Ph.D. Student, University of Science and Technology of China (USTC), Hefei, Anhui, China.
+- *2021.09 - 2025.06*, Undergraduate, Wuhan University (WHU), Wuhan, Hubei, China.
 - *2018.09 - 2021.06*, Senior Middle School, Zhengzhou No. 7 Middle School, Zhengzhou Henan.
 - *2015.09 - 2018.06*, Junior Middle School, High-tech Zone Experimental Middle School, Zhengzhou Henan.
 
