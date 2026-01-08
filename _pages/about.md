@@ -35,6 +35,7 @@ System Security (**NDSS**) Symposium 2026
 
 # 🔧 Projects
 - *2025.04 - now*, [OpenDataArena](https://opendataarena.github.io/index.html): Fair, Open, and Transparent Arena for Data — Benchmarking Dataset Value
+![avatar](../images/ODA.jpg)
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
