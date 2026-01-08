@@ -31,27 +31,32 @@ I’m always happy to connect and discuss research ideas or potential collaborat
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
+- **2nd Place.🎖**  Internal Reasoning in the NeurIPS 2025 CURE-Bench Competition *2025.10*
 - **Third Prize.** C/C++ Programming at the 15th National LanQiao Cup Competition Software Competition *2024.06*
-- **First Prize.** University Group A in C/C++ Programming at the 15th LanQiao Cup Competition Software Competition in Hubei *2024.04*
+- **First Prize.🎖** University Group A in C/C++ Programming at the 15th LanQiao Cup Competition Software Competition in Hubei *2024.04*
 - **Second Prize.**  China Undergraduate Mathematical Contest in Modeling *2023.09*
 - **First Prize🎖.** The 16th NATIONAL COLLEGE STUDENT INFORMATION SECURITY CONTEST *2023.08*
-- **First Prize.** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
-- **Meritorious Winner.** 2023 Mathematical Contest In Modeling *2023.04*
-- **First Prize.** 2023 "Huashu Cup" International Mathematical Contest in Modeling *2023.02*
+- **First Prize.🎖** The 15th "Huazhong Cup" College Student Mathematical Modeling Challenge *2023.05*
+- **Meritorious Winner.🎖** 2023 Mathematical Contest In Modeling *2023.04*
+- **First Prize.🎖** 2023 "Huashu Cup" International Mathematical Contest in Modeling *2023.02*
 - **Second Prize.** The 14th National College Student Mathematics Competition in Hubei Division *2022.11*
 - **Second Prize.** The 3rd Whu CARTOVISION Map Design Competition *2022.10*
 
 <span class='anchor' id="-scholarships-and-honors"></span>
 # 🥇 Scholarships and Honors
+- *2024.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2023.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
+- *2024.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
+- *2023.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
+- *2022.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
+- *2025.06* **Outstanding Graduate** *Wuhan University*
+- *2025.05* **Outstanding Undergraduate Thesis** *Wuhan University*
 - *2023.12* **First Prize for Advanced Individual in Learning** (Award Rate:GPA Top Three) *School of Cyber Science and Engineering*
 - *2023.12* **Advanced individuals in scientific and technological innovation** *School of Cyber Science and Engineering*
-- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2023.10* **Merit Student** (Award Rate: 10% school-wide) *Wuhan University*
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
-- *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.09* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
 - *2022.09* **Second Class Scholarship of WHU** (Award Rate: 10% school-wide) *Wuhan University*
-- 
+  
 <span class='anchor' id="-educations"></span>
 # 📖 Educations
 - *2025.09 - now*, Ph.D. Student, University of Science and Technology of China (USTC), Hefei, Anhui, China.
