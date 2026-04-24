@@ -43,7 +43,7 @@ System Security (**NDSS**) Symposium 2026
 - Z. Pan, **Y. Li**, H. Lin, Q. Pei, Z. Tang, W. Wu, C. Ming, H. V. Zhao, C. He, & L. Wu. Lemma: Learning from Errors for Mathematical Advancement in LLMs.  **Findings of ACL 2025**
 
 # 🔧 Projects
-- *2025.04 - now*, [OpenDataArena](https://opendataarena.github.io/index.html): Fair, Open, and Transparent Arena for Data — Benchmarking Dataset Value
+- *2025.04 - now*, [OpenDataArena](https://arena.opendatalab.org.cn/): Fair, Open, and Transparent Arena for Data — Benchmarking Dataset Value
 <p align="center">
   <img src="../images/ODA.png" alt="avatar" width="700">
 </p>
