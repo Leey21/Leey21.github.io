@@ -34,6 +34,8 @@ I’m always happy to connect and discuss research ideas or potential collaborat
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+- **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026**
+- Z. Pan\*, Q. Pei\*, **Y. Li**, Q. Sun, Z. Tang, H. V. Zhao, C. He, & L. Wu. REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.  **Main of ACL 2026**
 - M. Sun\*, **Y. Li\***, Y. Liu, B. Du, & Y. Ge. InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning. Network and Distributed
 System Security (**NDSS**) Symposium 2026
 - **Y. Li\***, Z. Pan\*, H. Lin\*, M. Sun, C. He, & L. Wu. Can one domain help others? a data-centric study on multi-domain reasoning via reinforcement learning. arXiv preprint arXiv:2507.17512
