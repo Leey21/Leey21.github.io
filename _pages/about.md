@@ -34,10 +34,10 @@ I’m always happy to connect and discuss research ideas or potential collaborat
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
-- **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026 · Oral** [[Paper]](https://arxiv.org/abs/2604.10480)
+- **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026 · Oral🔥** [[Paper]](https://arxiv.org/abs/2604.10480)
 - Z. Pan\*, Q. Pei\*, **Y. Li**, Q. Sun, Z. Tang, H. V. Zhao, C. He, & L. Wu. REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.  **Main of ACL 2026** [[Paper]](https://arxiv.org/abs/2507.10541)
 - M. Sun\*, **Y. Li\***, Y. Liu, B. Du, & Y. Ge. InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning. Network and Distributed
-System Security (**NDSS**) Symposium 2026 **· Oral** [[Paper]](https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/)
+System Security (**NDSS**) Symposium 2026 **· Oral🔥** [[Paper]](https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/)
 - **Y. Li\***, Z. Pan\*, H. Lin\*, M. Sun, C. He, & L. Wu. Can one domain help others? a data-centric study on multi-domain reasoning via reinforcement learning. arXiv preprint arXiv:2507.17512 [[Paper]](https://arxiv.org/abs/2507.17512)
 - **Y. Li**, Q. Pei, M. Sun, H. Lin, C. Ming, X. Gao, J. Wu, C. He, & L. Wu. Cipherbank: Exploring the boundary of LLM reasoning capabilities through cryptography challenges. **Findings of ACL 2025** [[Paper]](https://aclanthology.org/2025.findings-acl.309/)
 - Z. Pan, **Y. Li**, H. Lin, Q. Pei, Z. Tang, W. Wu, C. Ming, H. V. Zhao, C. He, & L. Wu. Lemma: Learning from Errors for Mathematical Advancement in LLMs.  **Findings of ACL 2025** [[Paper]](https://aclanthology.org/2025.findings-acl.605/)
