@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<p align="left">
+<!-- <p align="left">
   <img src="../images/ustcblue.jpg" alt="USTC" width="130" style="margin-right: 16px;">
   <img src="../images/shlab.png" alt="PJLab" width="200">
-</p>
+</p> -->
 
 # 👋 About me
 <span class='anchor' id='about-me'></span>
@@ -34,19 +34,25 @@ I’m always happy to connect and discuss research ideas or potential collaborat
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
-- **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026**
-- Z. Pan\*, Q. Pei\*, **Y. Li**, Q. Sun, Z. Tang, H. V. Zhao, C. He, & L. Wu. REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.  **Main of ACL 2026**
+- **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026 · Oral** [[Paper]](https://arxiv.org/abs/2604.10480)
+- Z. Pan\*, Q. Pei\*, **Y. Li**, Q. Sun, Z. Tang, H. V. Zhao, C. He, & L. Wu. REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.  **Main of ACL 2026** [[Paper]](https://arxiv.org/abs/2507.10541)
 - M. Sun\*, **Y. Li\***, Y. Liu, B. Du, & Y. Ge. InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning. Network and Distributed
-System Security (**NDSS**) Symposium 2026
-- **Y. Li\***, Z. Pan\*, H. Lin\*, M. Sun, C. He, & L. Wu. Can one domain help others? a data-centric study on multi-domain reasoning via reinforcement learning. arXiv preprint arXiv:2507.17512
-- **Y. Li**, Q. Pei, M. Sun, H. Lin, C. Ming, X. Gao, J. Wu, C. He, & L. Wu. Cipherbank: Exploring the boundary of LLM reasoning capabilities through cryptography challenges. **Findings of ACL 2025**
-- Z. Pan, **Y. Li**, H. Lin, Q. Pei, Z. Tang, W. Wu, C. Ming, H. V. Zhao, C. He, & L. Wu. Lemma: Learning from Errors for Mathematical Advancement in LLMs.  **Findings of ACL 2025**
+System Security (**NDSS**) Symposium 2026 **· Oral** [[Paper]](https://www.ndss-symposium.org/ndss-paper/invertune-a-backdoor-defense-method-for-multimodal-contrastive-learning-via-backdoor-adversarial-correlation-analysis/)
+- **Y. Li\***, Z. Pan\*, H. Lin\*, M. Sun, C. He, & L. Wu. Can one domain help others? a data-centric study on multi-domain reasoning via reinforcement learning. arXiv preprint arXiv:2507.17512 [[Paper]](https://arxiv.org/abs/2507.17512)
+- **Y. Li**, Q. Pei, M. Sun, H. Lin, C. Ming, X. Gao, J. Wu, C. He, & L. Wu. Cipherbank: Exploring the boundary of LLM reasoning capabilities through cryptography challenges. **Findings of ACL 2025** [[Paper]](https://aclanthology.org/2025.findings-acl.309/)
+- Z. Pan, **Y. Li**, H. Lin, Q. Pei, Z. Tang, W. Wu, C. Ming, H. V. Zhao, C. He, & L. Wu. Lemma: Learning from Errors for Mathematical Advancement in LLMs.  **Findings of ACL 2025** [[Paper]](https://aclanthology.org/2025.findings-acl.605/)
 
+<span class='anchor' id="-projects"></span>
 # 🔧 Projects
-- *2025.04 - now*, [OpenDataArena](https://arena.opendatalab.org.cn/): Fair, Open, and Transparent Arena for Data — Benchmarking Dataset Value
+- *2025.04 - 2025.10*, OpenDataArena: Fair, Open, and Transparent Arena for Data — Benchmarking Dataset Value [[Project]](https://arena.opendatalab.org.cn/) [[Paper]](https://arxiv.org/abs/2512.14051)
 <p align="center">
   <img src="../images/ODA.png" alt="avatar" width="700">
 </p>
+
+<span class='anchor' id="-awesome-repos"></span>
+# 📃 Awesome Repos
+- 🔥[Awesome-AI-Research-Writing](https://github.com/Leey21/awesome-ai-research-writing) [![Stars](https://img.shields.io/github/stars/Leey21/awesome-ai-research-writing?color=yellow&style=social)](https://github.com/Leey21/awesome-ai-research-writing)
+- [arxiv-translator](https://github.com/Leey21/arxiv-translator) [![Stars](https://img.shields.io/github/stars/Leey21/arxiv-translator?color=yellow&style=social)](https://github.com/Leey21/arxiv-translator)
 
 <span class='anchor' id="-competition-awards"></span>
 # 🏆 Competition Awards
@@ -82,6 +88,24 @@ System Security (**NDSS**) Symposium 2026
 - *2021.09 - 2025.06*, Undergraduate, Wuhan University (WHU), Wuhan, Hubei, China.
 - *2018.09 - 2021.06*, Senior Middle School, Zhengzhou No. 7 Middle School, Zhengzhou Henan.
 - *2015.09 - 2018.06*, Junior Middle School, High-tech Zone Experimental Middle School, Zhengzhou Henan.
+
+<span class='anchor' id="-internships"></span>
+# 💻 Internships
+
+<div class="internship-card">
+  <div class="internship-logo-wrap">
+    <img class="internship-logo" src="../images/shlab.jpeg" alt="Shanghai AI Laboratory official logo">
+  </div>
+  <div class="internship-content">
+    <div class="internship-title-row">
+      <h3 class="internship-title"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></h3>
+    </div>
+    <div class="internship-meta">
+      <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Oct 2024 - May 2026</span>
+      <span class="internship-meta-item"><i class="far fa-user"></i>Supervised by <a href="https://apeterswu.github.io/">Lijun Wu</a></span>
+    </div>
+  </div>
+</div>
 
 <!--
 # 💬 Invited Talks
