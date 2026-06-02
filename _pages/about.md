@@ -34,6 +34,8 @@ I’m always happy to connect and discuss research ideas or potential collaborat
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+- **Y. Li**, W. Li, X. Gao, M. Sun, X. Wang, Q. Pei, & L. Wu. SPARK: Skeleton-Guided Reasoning Synthesis from Large-Scale Scientific Literature. **Submitted to EMNLP 2026**
+- M. Sun\*, **Y. Li\***, Z. Yu, S. Zhang, & W. Ye. Support Vector Rubrics: Closing the Gap Between Self-Generated and Human Rubrics. **Submitted to EMNLP 2026**
 - **Y. Li**, X. Shang, Q. Pei, Y. Zhu, X. Gao, H. Lin, Z. Zhong, Z. Pan, Z. Liu, X. Wang, C. He, D. Lin, F. Zhao, & L. Wu. Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs.  **Main of ACL 2026 · Oral🔥** [[Paper]](https://arxiv.org/abs/2604.10480)
 - Z. Pan\*, Q. Pei\*, **Y. Li**, Q. Sun, Z. Tang, H. V. Zhao, C. He, & L. Wu. REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once.  **Main of ACL 2026** [[Paper]](https://arxiv.org/abs/2507.10541)
 - M. Sun\*, **Y. Li\***, Y. Liu, B. Du, & Y. Ge. InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning. Network and Distributed
