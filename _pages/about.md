@@ -21,7 +21,6 @@ redirect_from:
   <img src="../images/shlab.png" alt="PJLab" width="200">
 </p> -->
 
-# 👋 About me
 <span class='anchor' id='about-me'></span>
 Hi, I’m Yu Li (LiYu), a first-year PhD student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), advised by [Lijun Wu](https://apeterswu.github.io/), [Feng Zhao](https://scholar.google.com/citations?user=r6CvuOUAAAAJ&hl=en), and [Dahua Lin](http://dahua.site/). My research focuses on data analysis for large language models, reasoning enhancement, and reinforcement learning.
 
@@ -114,53 +113,103 @@ System Security (**NDSS**) Symposium 2026 **· Oral🔥** [[Paper]](https://www.
 # 🌍 Travel
 
 <div class="travel-city-grid">
-<div class="travel-orbit" data-travel-gallery="Vienna" style="--travel-count: 7;">
-  <div class="travel-orbit-stage" aria-label="Vienna travel photos">
-    <button class="travel-orbit-photo" type="button" style="--i: 0;" data-index="0" data-src="../images/travel/Vienna/1.jpg" aria-label="View Vienna travel photo 1"><img src="../images/travel/Vienna/1.jpg" alt="Vienna travel photo 1"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 1;" data-index="1" data-src="../images/travel/Vienna/2.jpg" aria-label="View Vienna travel photo 2"><img src="../images/travel/Vienna/2.jpg" alt="Vienna travel photo 2"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 2;" data-index="2" data-src="../images/travel/Vienna/3.jpg" aria-label="View Vienna travel photo 3"><img src="../images/travel/Vienna/3.jpg" alt="Vienna travel photo 3"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 3;" data-index="3" data-src="../images/travel/Vienna/4.jpg" aria-label="View Vienna travel photo 4"><img src="../images/travel/Vienna/4.jpg" alt="Vienna travel photo 4"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 4;" data-index="4" data-src="../images/travel/Vienna/5.jpg" aria-label="View Vienna travel photo 5"><img src="../images/travel/Vienna/5.jpg" alt="Vienna travel photo 5"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 5;" data-index="5" data-src="../images/travel/Vienna/6.jpg" aria-label="View Vienna travel photo 6"><img src="../images/travel/Vienna/6.jpg" alt="Vienna travel photo 6"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 6;" data-index="6" data-src="../images/travel/Vienna/7.jpg" aria-label="View Vienna travel photo 7"><img src="../images/travel/Vienna/7.jpg" alt="Vienna travel photo 7"></button>
+  <div class="travel-reel" data-travel-gallery="Vienna">
+    <div class="travel-reel-header">
+      <strong>Vienna</strong>
+      <span>Austria</span>
+    </div>
+    <div class="travel-reel-viewport" aria-label="Vienna travel photos">
+      <div class="travel-reel-track">
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Vienna/1.jpg" aria-label="View Vienna travel photo 1"><img src="../images/travel/Vienna/1.jpg" alt="Vienna travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Vienna/2.jpg" aria-label="View Vienna travel photo 2"><img src="../images/travel/Vienna/2.jpg" alt="Vienna travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Vienna/3.jpg" aria-label="View Vienna travel photo 3"><img src="../images/travel/Vienna/3.jpg" alt="Vienna travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Vienna/4.jpg" aria-label="View Vienna travel photo 4"><img src="../images/travel/Vienna/4.jpg" alt="Vienna travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Vienna/5.jpg" aria-label="View Vienna travel photo 5"><img src="../images/travel/Vienna/5.jpg" alt="Vienna travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Vienna/6.jpg" aria-label="View Vienna travel photo 6"><img src="../images/travel/Vienna/6.jpg" alt="Vienna travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Vienna/7.jpg" aria-label="View Vienna travel photo 7"><img src="../images/travel/Vienna/7.jpg" alt="Vienna travel photo 7"></button>
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Vienna/1.jpg" aria-label="View Vienna travel photo 1"><img src="../images/travel/Vienna/1.jpg" alt="Vienna travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Vienna/2.jpg" aria-label="View Vienna travel photo 2"><img src="../images/travel/Vienna/2.jpg" alt="Vienna travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Vienna/3.jpg" aria-label="View Vienna travel photo 3"><img src="../images/travel/Vienna/3.jpg" alt="Vienna travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Vienna/4.jpg" aria-label="View Vienna travel photo 4"><img src="../images/travel/Vienna/4.jpg" alt="Vienna travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Vienna/5.jpg" aria-label="View Vienna travel photo 5"><img src="../images/travel/Vienna/5.jpg" alt="Vienna travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Vienna/6.jpg" aria-label="View Vienna travel photo 6"><img src="../images/travel/Vienna/6.jpg" alt="Vienna travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Vienna/7.jpg" aria-label="View Vienna travel photo 7"><img src="../images/travel/Vienna/7.jpg" alt="Vienna travel photo 7"></button>
+      </div>
+    </div>
   </div>
-  <div class="travel-orbit-caption">
-    <strong>Vienna</strong>
-    <span>Austria</span>
-  </div>
-</div>
 
-<div class="travel-orbit" data-travel-gallery="Los Angeles" style="--travel-count: 6;">
-  <div class="travel-orbit-stage" aria-label="Los Angeles travel photos">
-    <button class="travel-orbit-photo" type="button" style="--i: 0;" data-index="0" data-src="../images/travel/Los Angeles/1.jpg" aria-label="View Los Angeles travel photo 1"><img src="../images/travel/Los Angeles/1.jpg" alt="Los Angeles travel photo 1"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 1;" data-index="1" data-src="../images/travel/Los Angeles/2.jpg" aria-label="View Los Angeles travel photo 2"><img src="../images/travel/Los Angeles/2.jpg" alt="Los Angeles travel photo 2"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 2;" data-index="2" data-src="../images/travel/Los Angeles/3.jpg" aria-label="View Los Angeles travel photo 3"><img src="../images/travel/Los Angeles/3.jpg" alt="Los Angeles travel photo 3"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 3;" data-index="3" data-src="../images/travel/Los Angeles/4.jpg" aria-label="View Los Angeles travel photo 4"><img src="../images/travel/Los Angeles/4.jpg" alt="Los Angeles travel photo 4"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 4;" data-index="4" data-src="../images/travel/Los Angeles/5.jpg" aria-label="View Los Angeles travel photo 5"><img src="../images/travel/Los Angeles/5.jpg" alt="Los Angeles travel photo 5"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 5;" data-index="5" data-src="../images/travel/Los Angeles/6.jpg" aria-label="View Los Angeles travel photo 6"><img src="../images/travel/Los Angeles/6.jpg" alt="Los Angeles travel photo 6"></button>
+  <div class="travel-reel" data-travel-gallery="Los Angeles">
+    <div class="travel-reel-header">
+      <strong>Los Angeles</strong>
+      <span>California, USA</span>
+    </div>
+    <div class="travel-reel-viewport" aria-label="Los Angeles travel photos">
+      <div class="travel-reel-track">
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Los Angeles/1.jpg" aria-label="View Los Angeles travel photo 1"><img src="../images/travel/Los Angeles/1.jpg" alt="Los Angeles travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Los Angeles/2.jpg" aria-label="View Los Angeles travel photo 2"><img src="../images/travel/Los Angeles/2.jpg" alt="Los Angeles travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Los Angeles/3.jpg" aria-label="View Los Angeles travel photo 3"><img src="../images/travel/Los Angeles/3.jpg" alt="Los Angeles travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Los Angeles/4.jpg" aria-label="View Los Angeles travel photo 4"><img src="../images/travel/Los Angeles/4.jpg" alt="Los Angeles travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Los Angeles/5.jpg" aria-label="View Los Angeles travel photo 5"><img src="../images/travel/Los Angeles/5.jpg" alt="Los Angeles travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Los Angeles/6.jpg" aria-label="View Los Angeles travel photo 6"><img src="../images/travel/Los Angeles/6.jpg" alt="Los Angeles travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Los Angeles/1.jpg" aria-label="View Los Angeles travel photo 1"><img src="../images/travel/Los Angeles/1.jpg" alt="Los Angeles travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Los Angeles/2.jpg" aria-label="View Los Angeles travel photo 2"><img src="../images/travel/Los Angeles/2.jpg" alt="Los Angeles travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Los Angeles/3.jpg" aria-label="View Los Angeles travel photo 3"><img src="../images/travel/Los Angeles/3.jpg" alt="Los Angeles travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Los Angeles/4.jpg" aria-label="View Los Angeles travel photo 4"><img src="../images/travel/Los Angeles/4.jpg" alt="Los Angeles travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Los Angeles/5.jpg" aria-label="View Los Angeles travel photo 5"><img src="../images/travel/Los Angeles/5.jpg" alt="Los Angeles travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Los Angeles/6.jpg" aria-label="View Los Angeles travel photo 6"><img src="../images/travel/Los Angeles/6.jpg" alt="Los Angeles travel photo 6"></button>
+      </div>
+    </div>
   </div>
-  <div class="travel-orbit-caption">
-    <strong>Los Angeles</strong>
-    <span>California, USA</span>
-  </div>
-</div>
 
-<div class="travel-orbit" data-travel-gallery="Salt Lake City" style="--travel-count: 8;">
-  <div class="travel-orbit-stage" aria-label="Salt Lake City travel photos">
-    <button class="travel-orbit-photo" type="button" style="--i: 0;" data-index="0" data-src="../images/travel/Salt Lake City/1.jpg" aria-label="View Salt Lake City travel photo 1"><img src="../images/travel/Salt Lake City/1.jpg" alt="Salt Lake City travel photo 1"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 1;" data-index="1" data-src="../images/travel/Salt Lake City/2.jpg" aria-label="View Salt Lake City travel photo 2"><img src="../images/travel/Salt Lake City/2.jpg" alt="Salt Lake City travel photo 2"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 2;" data-index="2" data-src="../images/travel/Salt Lake City/3.jpg" aria-label="View Salt Lake City travel photo 3"><img src="../images/travel/Salt Lake City/3.jpg" alt="Salt Lake City travel photo 3"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 3;" data-index="3" data-src="../images/travel/Salt Lake City/4.jpg" aria-label="View Salt Lake City travel photo 4"><img src="../images/travel/Salt Lake City/4.jpg" alt="Salt Lake City travel photo 4"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 4;" data-index="4" data-src="../images/travel/Salt Lake City/5.jpg" aria-label="View Salt Lake City travel photo 5"><img src="../images/travel/Salt Lake City/5.jpg" alt="Salt Lake City travel photo 5"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 5;" data-index="5" data-src="../images/travel/Salt Lake City/6.jpg" aria-label="View Salt Lake City travel photo 6"><img src="../images/travel/Salt Lake City/6.jpg" alt="Salt Lake City travel photo 6"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 6;" data-index="6" data-src="../images/travel/Salt Lake City/7.jpg" aria-label="View Salt Lake City travel photo 7"><img src="../images/travel/Salt Lake City/7.jpg" alt="Salt Lake City travel photo 7"></button>
-    <button class="travel-orbit-photo" type="button" style="--i: 7;" data-index="7" data-src="../images/travel/Salt Lake City/8.jpg" aria-label="View Salt Lake City travel photo 8"><img src="../images/travel/Salt Lake City/8.jpg" alt="Salt Lake City travel photo 8"></button>
+  <div class="travel-reel" data-travel-gallery="Salt Lake City">
+    <div class="travel-reel-header">
+      <strong>Salt Lake City</strong>
+      <span>Utah, USA</span>
+    </div>
+    <div class="travel-reel-viewport" aria-label="Salt Lake City travel photos">
+      <div class="travel-reel-track">
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Salt Lake City/1.jpg" aria-label="View Salt Lake City travel photo 1"><img src="../images/travel/Salt Lake City/1.jpg" alt="Salt Lake City travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Salt Lake City/2.jpg" aria-label="View Salt Lake City travel photo 2"><img src="../images/travel/Salt Lake City/2.jpg" alt="Salt Lake City travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Salt Lake City/3.jpg" aria-label="View Salt Lake City travel photo 3"><img src="../images/travel/Salt Lake City/3.jpg" alt="Salt Lake City travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Salt Lake City/4.jpg" aria-label="View Salt Lake City travel photo 4"><img src="../images/travel/Salt Lake City/4.jpg" alt="Salt Lake City travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Salt Lake City/5.jpg" aria-label="View Salt Lake City travel photo 5"><img src="../images/travel/Salt Lake City/5.jpg" alt="Salt Lake City travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Salt Lake City/6.jpg" aria-label="View Salt Lake City travel photo 6"><img src="../images/travel/Salt Lake City/6.jpg" alt="Salt Lake City travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Salt Lake City/7.jpg" aria-label="View Salt Lake City travel photo 7"><img src="../images/travel/Salt Lake City/7.jpg" alt="Salt Lake City travel photo 7"></button>
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Salt Lake City/1.jpg" aria-label="View Salt Lake City travel photo 1"><img src="../images/travel/Salt Lake City/1.jpg" alt="Salt Lake City travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Salt Lake City/2.jpg" aria-label="View Salt Lake City travel photo 2"><img src="../images/travel/Salt Lake City/2.jpg" alt="Salt Lake City travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Salt Lake City/3.jpg" aria-label="View Salt Lake City travel photo 3"><img src="../images/travel/Salt Lake City/3.jpg" alt="Salt Lake City travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Salt Lake City/4.jpg" aria-label="View Salt Lake City travel photo 4"><img src="../images/travel/Salt Lake City/4.jpg" alt="Salt Lake City travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Salt Lake City/5.jpg" aria-label="View Salt Lake City travel photo 5"><img src="../images/travel/Salt Lake City/5.jpg" alt="Salt Lake City travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Salt Lake City/6.jpg" aria-label="View Salt Lake City travel photo 6"><img src="../images/travel/Salt Lake City/6.jpg" alt="Salt Lake City travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Salt Lake City/7.jpg" aria-label="View Salt Lake City travel photo 7"><img src="../images/travel/Salt Lake City/7.jpg" alt="Salt Lake City travel photo 7"></button>
+      </div>
+    </div>
   </div>
-  <div class="travel-orbit-caption">
-    <strong>Salt Lake City</strong>
-    <span>Utah, USA</span>
+
+  <div class="travel-reel" data-travel-gallery="Yanqi Lake">
+    <div class="travel-reel-header">
+      <strong>Yanqi Lake</strong>
+      <span>Beijing, China</span>
+    </div>
+    <div class="travel-reel-viewport" aria-label="Yanqi Lake travel photos">
+      <div class="travel-reel-track">
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Yanqi Lake/1.jpg" aria-label="View Yanqi Lake travel photo 1"><img src="../images/travel/Yanqi Lake/1.jpg" alt="Yanqi Lake travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Yanqi Lake/2.jpg" aria-label="View Yanqi Lake travel photo 2"><img src="../images/travel/Yanqi Lake/2.jpg" alt="Yanqi Lake travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Yanqi Lake/3.jpg" aria-label="View Yanqi Lake travel photo 3"><img src="../images/travel/Yanqi Lake/3.jpg" alt="Yanqi Lake travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Yanqi Lake/4.jpg" aria-label="View Yanqi Lake travel photo 4"><img src="../images/travel/Yanqi Lake/4.jpg" alt="Yanqi Lake travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Yanqi Lake/5.jpg" aria-label="View Yanqi Lake travel photo 5"><img src="../images/travel/Yanqi Lake/5.jpg" alt="Yanqi Lake travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Yanqi Lake/6.jpg" aria-label="View Yanqi Lake travel photo 6"><img src="../images/travel/Yanqi Lake/6.jpg" alt="Yanqi Lake travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Yanqi Lake/7.jpg" aria-label="View Yanqi Lake travel photo 7"><img src="../images/travel/Yanqi Lake/7.jpg" alt="Yanqi Lake travel photo 7"></button>
+        <button class="travel-reel-photo" type="button" data-index="0" data-src="../images/travel/Yanqi Lake/1.jpg" aria-label="View Yanqi Lake travel photo 1"><img src="../images/travel/Yanqi Lake/1.jpg" alt="Yanqi Lake travel photo 1"></button>
+        <button class="travel-reel-photo" type="button" data-index="1" data-src="../images/travel/Yanqi Lake/2.jpg" aria-label="View Yanqi Lake travel photo 2"><img src="../images/travel/Yanqi Lake/2.jpg" alt="Yanqi Lake travel photo 2"></button>
+        <button class="travel-reel-photo" type="button" data-index="2" data-src="../images/travel/Yanqi Lake/3.jpg" aria-label="View Yanqi Lake travel photo 3"><img src="../images/travel/Yanqi Lake/3.jpg" alt="Yanqi Lake travel photo 3"></button>
+        <button class="travel-reel-photo" type="button" data-index="3" data-src="../images/travel/Yanqi Lake/4.jpg" aria-label="View Yanqi Lake travel photo 4"><img src="../images/travel/Yanqi Lake/4.jpg" alt="Yanqi Lake travel photo 4"></button>
+        <button class="travel-reel-photo" type="button" data-index="4" data-src="../images/travel/Yanqi Lake/5.jpg" aria-label="View Yanqi Lake travel photo 5"><img src="../images/travel/Yanqi Lake/5.jpg" alt="Yanqi Lake travel photo 5"></button>
+        <button class="travel-reel-photo" type="button" data-index="5" data-src="../images/travel/Yanqi Lake/6.jpg" aria-label="View Yanqi Lake travel photo 6"><img src="../images/travel/Yanqi Lake/6.jpg" alt="Yanqi Lake travel photo 6"></button>
+        <button class="travel-reel-photo" type="button" data-index="6" data-src="../images/travel/Yanqi Lake/7.jpg" aria-label="View Yanqi Lake travel photo 7"><img src="../images/travel/Yanqi Lake/7.jpg" alt="Yanqi Lake travel photo 7"></button>
+      </div>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="travel-lightbox" aria-hidden="true">

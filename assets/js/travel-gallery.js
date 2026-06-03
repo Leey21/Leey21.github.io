@@ -1,5 +1,5 @@
 (function () {
-  var galleries = Array.prototype.slice.call(document.querySelectorAll(".travel-orbit"));
+  var galleries = Array.prototype.slice.call(document.querySelectorAll(".travel-reel"));
   var lightbox = document.querySelector(".travel-lightbox");
   if (!galleries.length || !lightbox) return;
 
@@ -33,10 +33,16 @@
   }
 
   galleries.forEach(function (gallery) {
-    var galleryPhotos = Array.prototype.slice.call(gallery.querySelectorAll(".travel-orbit-photo"));
-    galleryPhotos.forEach(function (photo, index) {
+    var allButtons = Array.prototype.slice.call(gallery.querySelectorAll(".travel-reel-photo"));
+    var uniquePhotos = allButtons.filter(function (photo, index, list) {
+      return list.findIndex(function (item) {
+        return item.getAttribute("data-index") === photo.getAttribute("data-index");
+      }) === index;
+    });
+
+    allButtons.forEach(function (photo) {
       photo.addEventListener("click", function () {
-        openLightbox(galleryPhotos, index);
+        openLightbox(uniquePhotos, parseInt(photo.getAttribute("data-index"), 10) || 0);
       });
     });
   });
