@@ -1,5 +1,5 @@
 (function () {
-  var galleries = Array.prototype.slice.call(document.querySelectorAll(".travel-roller"));
+  var galleries = Array.prototype.slice.call(document.querySelectorAll(".travel-scroll"));
   var lightbox = document.querySelector(".travel-lightbox");
   if (!galleries.length || !lightbox) return;
 
@@ -33,7 +33,7 @@
   }
 
   galleries.forEach(function (gallery) {
-    var allButtons = Array.prototype.slice.call(gallery.querySelectorAll(".travel-roller-photo"));
+    var allButtons = Array.prototype.slice.call(gallery.querySelectorAll(".travel-scroll-photo"));
     var uniquePhotos = allButtons.filter(function (photo, index, list) {
       return list.findIndex(function (item) {
         return item.getAttribute("data-index") === photo.getAttribute("data-index");
