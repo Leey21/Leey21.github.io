@@ -109,6 +109,21 @@ System Security (**NDSS**) Symposium 2026 **· Oral🔥** [[Paper]](https://www.
   </div>
 </div>
 
+<div class="internship-card">
+  <div class="internship-logo-wrap">
+    <img class="internship-logo" src="../images/stepfun.jpeg" alt="StepFun official logo">
+  </div>
+  <div class="internship-content">
+    <div class="internship-title-row">
+      <h3 class="internship-title"><a href="https://www.stepfun.com/">StepFun</a></h3>
+    </div>
+    <div class="internship-meta">
+      <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Jun 2026 - Aug 2026</span>
+      <span class="internship-meta-item"><i class="far fa-user"></i>Base Model Agent Algorithm Intern</span>
+    </div>
+  </div>
+</div>
+
 <span class='anchor' id="-travel"></span>
 # 🌍 Travel
 
