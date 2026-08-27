@@ -71,6 +71,7 @@ System Security (**NDSS**) Symposium 2026 **· Oral🔥** [[Paper]](https://www.
 
 <span class='anchor' id="-scholarships-and-honors"></span>
 # 🥇 Scholarships and Honors
+- *2026.09* **First‑Class Doctoral Academic Scholarship** *University of Science and Technology of China*
 - *2024.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
 - *2023.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China*
